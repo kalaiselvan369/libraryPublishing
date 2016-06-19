@@ -24,6 +24,10 @@ Once all done run this command in terminal
 
 ``` gradlew install ```
 
+Now you can use your library as gradle dependency in any of your android project
+
+``` compile ('com.develops:yourlibraryname:1.0')```
+
 For more info look at this
 
 [https://github.com/dcendents/android-maven-gradle-plugin]
