@@ -23,3 +23,7 @@ You can also add
 Once all done run this command in terminal
 
 ``` gradlew install ```
+
+For more info look at this
+
+[https://github.com/dcendents/android-maven-gradle-plugin]
